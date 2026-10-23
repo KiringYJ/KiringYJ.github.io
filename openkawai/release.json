@@ -1,0 +1,8 @@
+{
+  "application": "openkawai",
+  "sourceRepository": "https://github.com/KiringYJ/openkawai",
+  "sourceCommit": "dc0a3ae4333b2af25c332f878e0624eb6322276b",
+  "nodeVersion": "v24.16.0",
+  "buildCommand": "npm.cmd run build -- --base=/openkawai/",
+  "url": "https://kiringyj.github.io/openkawai/"
+}
